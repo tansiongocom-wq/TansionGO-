@@ -1,0 +1,30 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Outer accent glowing ring or hexagon -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#10B981"
+        android:strokeWidth="3"
+        android:pathData="M54,26 L78,40 L78,68 L54,82 L30,68 L30,40 Z" />
+
+    <!-- A bold upward trend chart combined with a corporate skyscraper inside the hexagon -->
+    <path
+        android:fillColor="#10B981"
+        android:pathData="M44,40 L50,40 L50,70 L44,70 Z M52,34 L58,34 L58,70 L52,70 Z M60,45 L66,45 L66,70 L60,70 Z" />
+
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M36,52 L42,52 L42,70 L36,70 Z M68,56 L74,56 L74,70 L68,70 Z" />
+
+    <!-- Upward arrow line for exponential growth -->
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:fillColor="#00000000"
+        android:pathData="M34,60 L48,46 L58,54 L72,38 M72,38 L66,38 M72,38 L72,44" />
+</vector>

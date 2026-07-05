@@ -1,0 +1,6 @@
+{
+  "name": "TansionGO ERP",
+  "description": "Secure, modern internal ERP for employee and admin management, featuring lead and client management, attendance trackers, work logs, real-time dashboards, and secure role-based access.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
